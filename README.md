@@ -6,7 +6,12 @@
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![AI Agent Compatible](https://img.shields.io/badge/AI%20Agent-Antigravity%20%7C%20Claude%20%7C%20Codex-purple.svg)](SKILL.md)
 [![Workflow](https://img.shields.io/badge/pipeline-5--Mode%20Visual%20Pack-green.svg)](#-五大核心生产模式)
+[![Agensi Store](https://img.shields.io/badge/Agensi%20Store-$4.99%20Verified-blue.svg)](https://www.agensi.io/skills/nano-banana-video-visuals)
 [![Stars](https://img.shields.io/github/stars/287523023qq-hue/nano-banana-visuals?style=social)](https://github.com/287523023qq-hue/nano-banana-visuals)
+
+> ⭐️ **喜欢 Nano Banana 爆款分镜视觉流？欢迎在右上角点亮 Star ⭐️ 支持持续更新！**  
+> 🚀 **Agensi 官方已上架验证版**：[立即在 Agensi 购买 (\$4.99)](https://www.agensi.io/skills/nano-banana-video-visuals)  
+> 🌐 **全套技能演示主页**：[https://287523023qq-hue.github.io/ai-cinematic-skills/](https://287523023qq-hue.github.io/ai-cinematic-skills/)
 
 <div align="center">
   <img src="assets/cover.png" alt="Nano Banana Visuals Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" />
