@@ -6,12 +6,13 @@
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![AI Agent Compatible](https://img.shields.io/badge/AI%20Agent-Antigravity%20%7C%20Claude%20%7C%20Codex-purple.svg)](SKILL.md)
 [![Workflow](https://img.shields.io/badge/pipeline-5--Mode%20Visual%20Pack-green.svg)](#-五大核心生产模式)
-[![Agensi Store](https://img.shields.io/badge/Agensi%20Store-$4.99%20Verified-blue.svg)](https://www.agensi.io/skills/nano-banana-video-visuals)
+[![Agensi Store](https://img.shields.io/badge/Agensi%20Store-$4.99%20Verified-blue.svg)](https://www.agensi.io/r/CREATOR980D20B?to=/skills/nano-banana-video-visuals&utm_source=github_banana)
+[![4-in-1 Bundle](https://img.shields.io/badge/4--in--1%20Bundle-$9.99%20(Save%2041%25)-10b981.svg)](https://www.agensi.io/r/CREATOR980D20B?to=/bundles/ai-game-visual-asset-studio-suite&utm_source=github_banana)
 [![Stars](https://img.shields.io/github/stars/287523023qq-hue/nano-banana-visuals?style=social)](https://github.com/287523023qq-hue/nano-banana-visuals)
 
-> ⭐️ **喜欢 Nano Banana 爆款分镜视觉流？欢迎在右上角点亮 Star ⭐️ 支持持续更新！**  
-> 🚀 **Agensi 官方已上架验证版**：[立即在 Agensi 购买 (\$4.99)](https://www.agensi.io/skills/nano-banana-video-visuals)  
-> 🌐 **全套技能演示主页**：[https://287523023qq-hue.github.io/ai-cinematic-skills/](https://287523023qq-hue.github.io/ai-cinematic-skills/)
+> 🎁 **【超值推荐】4 合 1 官方旗舰套餐仅 `$9.99`（打包带走本技能 + 角色工坊 + 电影运镜 + 游戏工坊，立省 41%）**：[AI Game & Visual Asset Studio Suite →](https://www.agensi.io/r/CREATOR980D20B?to=/bundles/ai-game-visual-asset-studio-suite&utm_source=github_banana)  
+> 🚀 **单买本技能 (`$4.99`)**：[立即在 Agensi 购买](https://www.agensi.io/r/CREATOR980D20B?to=/skills/nano-banana-video-visuals&utm_source=github_banana)  
+> 🌐 **全套技能在线演示主页**：[https://287523023qq-hue.github.io/ai-cinematic-skills/](https://287523023qq-hue.github.io/ai-cinematic-skills/)
 
 <div align="center">
   <img src="assets/cover.png" alt="Nano Banana Visuals Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" />
