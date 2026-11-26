@@ -1,3 +1,58 @@
+# 🍌 Nano Banana Video Visuals — Gemini / Nano Banana Pro Asset Pack Compiler
+
+[![Agensi Skill](https://img.shields.io/badge/Agensi_Skill-%244.99-2563EB?style=for-the-badge)](https://www.agensi.io/r/CREATOR980D20B?to=/skills/nano-banana-video-visuals&utm_source=github_banana)
+[![4-in-1 Bundle](https://img.shields.io/badge/4--Skill_Studio_Bundle-%249.99_(Save_41%25)-F59E0B?style=for-the-badge)](https://www.agensi.io/r/CREATOR980D20B?to=/bundles/ai-game-visual-asset-studio-suite&utm_source=github_banana)
+[![Free QuickCheck](https://img.shields.io/badge/Free_Pre--Flight_Linter-Camera_QuickCheck-10B981?style=for-the-badge)](https://www.agensi.io/r/CREATOR980D20B?to=/skills/camera-prompt-quickcheck&utm_source=github_banana)
+[![Live Demo](https://img.shields.io/badge/Interactive_Demo-Live_QuickCheck-7C3AED?style=for-the-badge)](https://287523023qq-hue.github.io/ai-cinematic-skills/#quickcheck)
+[![License: MIT](https://img.shields.io/badge/License-MIT-zinc?style=for-the-badge)](LICENSE)
+
+> **Turn raw scripts, IP ideas, and Obsidian video notes into cohesive production visual prompt packs for Gemini & Nano Banana Pro.**
+> Designed for short-video teams who need **high-CTR covers, first-frame anchors, multi-panel storyboards, character turnaround sheets, stickers, props, and transparent cutouts** — all locked in one visual style.
+
+<p align="center">
+  <img src="assets/cover.png" alt="Nano Banana Video Visuals Cover" width="760" />
+</p>
+
+---
+
+## 🎯 What It Generates from One Concept
+
+| Deliverable | Why Short-Video Workflows Need It |
+|---|---|
+| **High-CTR Video Covers** | Composition, typography safe-zones & thumb-stopping focal contrast |
+| **Video First-Frame Anchors** | Clean starting compositions ready to feed into Kling, Runway Gen-4, Sora & Veo |
+| **Storyboard Contact Sheets** | Sequence-consistent key moments with matching lighting & palette |
+| **Expression & Pose Sheets** | Reusable mascot / host reactions without drifting outfit or proportions |
+| **Props & Transparent Cutouts** | Isolated overlay assets, UI stickers & B-roll cut-ins for editing |
+
+---
+
+## ⚡ Quick Start
+
+1. **Install on Agensi (`$4.99`) or Clone Locally**:
+   - One-click install via **[Agensi (`$4.99`)](https://www.agensi.io/r/CREATOR980D20B?to=/skills/nano-banana-video-visuals&utm_source=github_banana)**, or clone directly:
+   ```bash
+   git clone https://github.com/287523023qq-hue/nano-banana-visuals.git ~/.claude/skills/nano-banana-video-visuals
+   ```
+2. **Pair with Free Camera Physics Linter**:
+   - Once your first-frame anchor is generated, audit the video camera prompt free with **[`Camera Prompt QuickCheck`](https://www.agensi.io/r/CREATOR980D20B?to=/skills/camera-prompt-quickcheck&utm_source=github_banana)** or **[Live Web Linter](https://287523023qq-hue.github.io/ai-cinematic-skills/#quickcheck)**.
+3. **Save 41% with the 4-in-1 Studio Suite (`$9.99`)**:
+   - **[AI Game & Visual Asset Studio Suite](https://www.agensi.io/r/CREATOR980D20B?to=/bundles/ai-game-visual-asset-studio-suite&utm_source=github_banana)** includes `Character Creation Studio` + `Cinematic Shot Prompting` + `Nano Banana Video Visuals` + `Game Universe Studio`.
+
+---
+
+## 📂 Repository Contents
+
+- `SKILL.md` — Visual prompt pack compiler workflow & continuity rules
+- `references/video-visual-patterns.md` — Cover, first-frame, storyboard, expression-sheet & cutout templates
+- `agents/openai.yaml` — Agent skill metadata manifest
+- `assets/cover.png` — Showcase cover visual
+
+---
+
+<details>
+<summary>🇨🇳 中文完整文档 (Full Chinese Documentation)</summary>
+
 # 🍌 Nano Banana Visuals - AI 短视频视觉资产与角色一致性提示词工作流
 
 > **把「视频脚本与 IP 想法」编译成工业级、高点击率、强一致性的成套 AI 视觉资产包。**  
@@ -98,3 +153,5 @@ nano-banana-visuals/
 ## 📄 开源许可证
 
 本项目采用 [MIT 许可证](LICENSE)。欢迎个人创作者、视频制作团队及开源社区免费使用。
+
+</details>
